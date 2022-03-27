@@ -1,10 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>daanveerr Shivesh </h1>
+      <h1>daanveerr</h1>
+      <h2>Helo World</h2>
     </div>
   );
 }
